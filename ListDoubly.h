@@ -1,4 +1,4 @@
-#ifndef LISTDOUBLY_H
+#ifndef LISTDOUBLY_Haaa
 #define LISTDOUBLY_H
 
 #include <iostream>
