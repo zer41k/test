@@ -4,6 +4,9 @@
 #include <algorithm>
 #include <iostream>
 
+123
+123
+123
 class QueueArray
 {
 public:
